@@ -19,4 +19,5 @@
 - Settings Customization: In Jito settings, toggle Jito Bundles, manage fees, and adjust the Auto Buy feature as required. Change Slippage, Priority Fees, and Transaction Fees while updating your OpenAI Key.
 - Token Visibility: Improve your token’s presence on Pumpfun's main page through customizable settings.
 
+
 ![Screshot_113](https://github.com/user-attachments/assets/4f233463-3415-4dd1-a764-54afdf65c5a8)
