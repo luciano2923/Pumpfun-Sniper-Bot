@@ -215,7 +215,23 @@ class YobitAPI(object):
         :type pair: str
 
         :param limit: Size of response (on default 150 to 2000 max)
+        :type limit: intdef trades(self, pair, limit=150):
+        """
+        Used to get information about the last transactions of selected pair.
+        Response contains type, price, amount, tid, timestamp for each transaction.
+
+        :param pair: Pair of currencies, example 'ltc_btc'
+        :type pair: str
+
+        :param limit: Size of response (on default 150 to 2000 max)
         :type limit: int
+
+
+
+
+
+
+
 
         :return: Current information about transactions
         :rtype : dict
